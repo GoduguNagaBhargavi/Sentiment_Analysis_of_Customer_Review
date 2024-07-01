@@ -4,8 +4,16 @@ Develop a Sentiment Analysis model to classify Reviews as Positive or Negative. 
 # Proposed Solution:
 The proposed system aims to develop a robust and efficient machine learning model that can automatically classify customer reviews into positive, negative, and neutral sentiments. This solution seeks to provide businesses with actionable insights from customer feedback, enabling them to enhance customer satisfaction, improve products and services, and make informed, data-driven decisions. 
 # Results:
+![image](https://github.com/GoduguNagaBhargavi/Sentiment_Analysis_of_Customer_Review/assets/129164346/50bb3b8f-70e7-44f0-bd6f-9c6197310608)
+
+
+![image](https://github.com/GoduguNagaBhargavi/Sentiment_Analysis_of_Customer_Review/assets/129164346/36db76e6-9856-42b5-b495-89b0a966d66d)
+
+
+
 ![image](https://github.com/GoduguNagaBhargavi/Sentiment_Analysis_of_Customer_Review/assets/129164346/1e52ce6a-8f40-46f1-9195-6aaec2041a9c)
 The bar plot illustrates the distribution of sentiment-related words within the reviews. Words like 'good', 'great', 'amazing', and 'love' appear frequently, suggesting positive sentiments associated with these terms. Conversely, words like 'bad' indicate instances of negative sentiment. The varying heights of the bars indicate the relative frequency of each word, providing insight into the overall sentiment expressed in the reviews dataset. The color coding helps differentiate between different words for clarity and emphasis.
+
 
 
 ![image](https://github.com/GoduguNagaBhargavi/Sentiment_Analysis_of_Customer_Review/assets/129164346/d18c912f-7cd6-4f0d-9b0d-959743890dd0)
